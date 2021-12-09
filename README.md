@@ -1,4 +1,5 @@
-![This is an image]
+![This is an image](https://github.com/PlayerYGitHub/Friday-Night-Funkin-Deinfinity-Edition/blob/main/art/Title.png)
+
 (WARNING: THIS IS A JOKE MOD)
 ----------------------------------------------------------------------------------
 Welcome to Friday Night Funkin': Deinfinity Edition, this mod aims to Improve the experience with Friday Night Funkin' with:
@@ -45,24 +46,33 @@ This is what the mod actually have (or will have):
 # **FAQ**
 
 **Q: How long did this took to make?**
+
 A: Longer that It should have been.
 
 **Q: When the rest of the mod (AKA: Week 4 - 6) comes out ?**
+
 A: I would say the dumb line "When it’s ready", but, to be honest it's almost done, I need to do 2 Things
-I just need to find a way to get a copy of Adobe Animate running, since I have been using the free trial to export the sprites (NO, I will not buy a subscription to use a simple export command).
-Finish Editing the Soundtrack, I have plans to edit the soundtrack, even something as simple as changing the vocals of a character.
+
+1. I just need to find a way to get a copy of Adobe Animate running, since I have been using the free trial to export the sprites (NO, I will not buy a subscription to use a simple export command).
+
+2. Finish Editing the Soundtrack, I have plans to edit the soundtrack, even something as simple as changing the vocals of a character.
 
 **Q: Wait if you didn't used Adobe Animate what software did you used to edit the sprites?**
+
 A: Simple, I used a older version of Adobe Animate: Adobe Flash CS5.5 Professional (Trust me, this helps a lot and you can get one on Internet Archive ) and also Gimp
 
 **Q: Is this mod related to GTA Definitive Edition?**
+
 A: no, it's just a coincidence and bad timing
 
 **Q: What about the Mac version?**
+
 A: My Fault, I owe you this one, I don't know how to compile a mac version, even them I don't have a mac computer to test out, sorry.
 
 **Q: After the full mod released, what you will do?**
+
 A: I Dunno, Probably add new content, since now I learned how to add and edit the source code, or work one another project.
 
 **Q: your English looks a little weird... Why?**
+
 A: English Is not my native language
