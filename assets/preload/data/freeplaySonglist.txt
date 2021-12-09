@@ -1,0 +1,11 @@
+tutorial:gf:0
+beeebopbeboopeebopeebo:dad:1
+old:dad:1
+gnomebattle:dad:1
+unfair-music:spooky:2
+spitting-facts:spooky:2
+creature:monster:2
+xbox-microfone:pico:3
+philly-nice-thank-u-for-asking:pico:3
+gunned:pico:3
+
